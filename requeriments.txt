@@ -9,7 +9,6 @@ django-qr-code==2.3.0
 django-recaptcha==3.0.0
 idna==3.3
 oauthlib==3.2.0
-pkg_resources==0.0.0
 pycparser==2.21
 PyJWT==2.3.0
 PyMySQL==1.0.2
